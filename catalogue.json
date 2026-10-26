@@ -7,72 +7,82 @@
       {
         "ta": "கடலை எண்ணெய்",
         "en": "GROUNDNUT OIL",
-        "image": "assets/ppt-1-1.webp",
+        "image": "assets/product-photos-v1/category-1-1.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-1"
+        "id": "category-1-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நல்லெண்ணெய்",
         "en": "SESAME OIL",
-        "image": "assets/ppt-1-2.webp",
+        "image": "assets/product-photos-v1/category-1-2.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-2"
+        "id": "category-1-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேங்காய் எண்ணெய்",
         "en": "COCONUT OIL",
-        "image": "assets/ppt-1-3.webp",
+        "image": "assets/product-photos-v1/category-1-3.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-3"
+        "id": "category-1-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆமணக்கு எண்ணெய்",
         "en": "CASTOR OIL",
-        "image": "assets/ppt-1-4.webp",
+        "image": "assets/product-photos-v1/category-1-4.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-4"
+        "id": "category-1-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆலிவ் எண்ணெய்",
         "en": "OLIVE OIL",
-        "image": "assets/ppt-1-5.webp",
+        "image": "assets/product-photos-v1/category-1-5.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-5"
+        "id": "category-1-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பஞ்ச தீப எண்ணெய்",
         "en": "PANCHA DEEPAM OIL",
-        "image": "assets/ppt-1-6.webp",
+        "image": "assets/product-photos-v1/category-1-6.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-6"
+        "id": "category-1-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கடுகு எண்ணெய்",
         "en": "MUSTARD OIL",
-        "image": "assets/ppt-1-7.webp",
+        "image": "assets/product-photos-v1/category-1-7.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-7"
+        "id": "category-1-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வேப்ப எண்ணெய்",
         "en": "NEEM OIL",
-        "image": "assets/ppt-1-8.webp",
+        "image": "assets/product-photos-v1/category-1-8.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-8"
+        "id": "category-1-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கருஞ்சீரக எண்ணெய்",
         "en": "BLACK SEED OIL",
-        "image": "assets/ppt-1-9.webp",
+        "image": "assets/product-photos-v1/category-1-9.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-9"
+        "id": "category-1-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ரோஸ்மேரி எண்ணெய்",
         "en": "ROSEMARY OIL",
-        "image": "assets/ppt-1-10.webp",
+        "image": "assets/product-photos-v1/category-1-10.webp",
         "source": "Approved brochure slide 1",
-        "id": "category-1-10"
+        "id": "category-1-10",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -84,58 +94,66 @@
       {
         "ta": "பருப்புப் பொடி",
         "en": "LENTIL",
-        "image": "assets/ppt-2-1.webp",
+        "image": "assets/product-photos-v1/category-2-1.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-1"
+        "id": "category-2-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கறிவேப்பிலை சாதப் பொடி",
         "en": "CURRY LEAF",
-        "image": "assets/ppt-2-2.webp",
+        "image": "assets/product-photos-v1/category-2-2.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-2"
+        "id": "category-2-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முருங்கைக் கீரை சாதப் பொடி",
         "en": "MORINGA LEAF",
-        "image": "assets/ppt-2-3.webp",
+        "image": "assets/product-photos-v1/category-2-3.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-3"
+        "id": "category-2-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கொள்ளு சாதப் பொடி",
         "en": "HORSE GRAM",
-        "image": "assets/ppt-2-4.webp",
+        "image": "assets/product-photos-v1/category-2-4.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-4"
+        "id": "category-2-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பிரண்டை சாதப் பொடி",
         "en": "PIRANDAI",
-        "image": "assets/ppt-2-5.webp",
+        "image": "assets/product-photos-v1/category-2-5.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-5"
+        "id": "category-2-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முடவாட்டுக்கிழங்கு சாதப் பொடி",
         "en": "MUDAVATTUKIZHANGU",
-        "image": "assets/ppt-2-6.webp",
+        "image": "assets/product-photos-v1/category-2-6.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-6"
+        "id": "category-2-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "புளியோதரை சாதப் பொடி",
         "en": "TAMARIND",
-        "image": "assets/ppt-2-7.webp",
+        "image": "assets/product-photos-v1/category-2-7.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-7"
+        "id": "category-2-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "எள்ளு சாதப் பொடி",
         "en": "SESAME",
-        "image": "assets/ppt-2-8.webp",
+        "image": "assets/product-photos-v1/category-2-8.webp",
         "source": "Approved brochure slide 2",
-        "id": "category-2-8"
+        "id": "category-2-8",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -147,100 +165,114 @@
       {
         "ta": "பச்சைக் காட்டுத் தேன்",
         "en": "RAW WILD FOREST HONEY",
-        "image": "assets/ppt-3-1.webp",
+        "image": "assets/product-photos-v1/category-3-1.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-1"
+        "id": "category-3-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மலைத் தேன்",
         "en": "MOUNTAIN HONEY",
-        "image": "assets/ppt-3-2.webp",
+        "image": "assets/product-photos-v1/category-3-2.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-2"
+        "id": "category-3-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முருங்கைத் தேன்",
         "en": "MORINGA HONEY",
-        "image": "assets/ppt-3-3.webp",
+        "image": "assets/product-photos-v1/category-3-3.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-3"
+        "id": "category-3-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நாவல் தேன்",
         "en": "JAMUN HONEY",
-        "image": "assets/ppt-3-4.webp",
+        "image": "assets/product-photos-v1/category-3-4.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-4"
+        "id": "category-3-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வேல மரத் தேன்",
         "en": "ACACIA HONEY",
-        "image": "assets/ppt-3-5.webp",
+        "image": "assets/product-photos-v1/category-3-5.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-5"
+        "id": "category-3-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பல்மலர்த் தேன்",
         "en": "MULTIFLORA HONEY",
-        "image": "assets/ppt-3-6.webp",
+        "image": "assets/product-photos-v1/category-3-6.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-6"
+        "id": "category-3-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "இஞ்சித் தேன்",
         "en": "GINGER HONEY",
-        "image": "assets/ppt-3-7.webp",
+        "image": "assets/product-photos-v1/category-3-7.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-7"
+        "id": "category-3-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறு தேன்",
         "en": "LITTLE BEE HONEY",
-        "image": "assets/ppt-3-8.webp",
+        "image": "assets/product-photos-v1/category-3-8.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-8"
+        "id": "category-3-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேன் பூண்டு தேன் இஞ்சி",
         "en": "HONEY GARLIC / GINGER",
-        "image": "assets/ppt-3-9.webp",
+        "image": "assets/product-photos-v1/category-3-9.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-9"
+        "id": "category-3-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ரோஜா குல்கந்து தேன்",
         "en": "HONEY ROSE GOLKUND",
-        "image": "assets/ppt-3-10.webp",
+        "image": "assets/product-photos-v1/category-3-10.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-10"
+        "id": "category-3-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேன் நெல்லிக்காய்",
         "en": "HONEY AMLA",
-        "image": "assets/ppt-3-11.webp",
+        "image": "assets/product-photos-v1/category-3-11.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-11"
+        "id": "category-3-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேன் அத்திப்பழம்",
         "en": "HONEY FIG",
-        "image": "assets/ppt-3-12.webp",
+        "image": "assets/product-photos-v1/category-3-12.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-12"
+        "id": "category-3-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேனில் ஊறிய பாதாம்",
         "en": "HONEY-SOAKED ALMONDS",
-        "image": "assets/ppt-3-13.webp",
+        "image": "assets/product-photos-v1/category-3-13.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-13"
+        "id": "category-3-13",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தேனில் ஊறிய உலர் பழங்கள் மற்றும் நட்ஸ்",
         "en": "DRIED FRUITS & NUTS IN HONEY",
-        "image": "assets/ppt-3-14.webp",
+        "image": "assets/product-photos-v1/category-3-14.webp",
         "source": "Approved brochure slide 3",
-        "id": "category-3-14"
+        "id": "category-3-14",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -252,93 +284,106 @@
       {
         "ta": "குழம்பு மிளகாய்த் தூள்",
         "en": "CURRY CHILLI POWDER",
-        "image": "assets/ppt-4-1.webp",
+        "image": "assets/product-photos-v1/category-4-1.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-1"
+        "id": "category-4-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மிளகாய்த் தூள்",
         "en": "CHILLI POWDER",
-        "image": "assets/ppt-4-2.webp",
+        "image": "assets/product-photos-v1/category-4-2.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-2"
+        "id": "category-4-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மஞ்சள் தூள்",
         "en": "TURMERIC POWDER",
-        "image": "assets/ppt-4-3.webp",
+        "image": "assets/product-photos-v1/category-4-3.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-3"
+        "id": "category-4-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மிளகுத் தூள்",
         "en": "PEPPER POWDER",
-        "image": "assets/ppt-4-4.webp",
+        "image": "assets/product-photos-v1/category-4-4.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-4"
+        "id": "category-4-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கரம் மசாலா",
         "en": "GARAM MASALA",
-        "image": "assets/ppt-4-5.webp",
+        "image": "assets/product-photos-v1/category-4-5.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-5"
+        "id": "category-4-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பிரியாணி மசாலா",
         "en": "BIRIYANI MASALA",
-        "image": "assets/ppt-4-6.webp",
+        "image": "assets/product-photos-v1/category-4-6.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-6"
+        "id": "category-4-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிக்கன் மசாலா செட்டிநாடு ஸ்பெஷல்",
         "en": "CHICKEN MASALA CHETTINAD SPECIAL",
-        "image": "assets/ppt-4-7.webp",
+        "image": "assets/product-photos-v1/category-4-7.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-7"
+        "id": "category-4-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிக்கன் 65 மசாலா",
         "en": "CHICKEN 65 MASALA",
-        "image": "assets/ppt-4-8.webp",
+        "image": "assets/product-photos-v1/category-4-8.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-8"
+        "id": "category-4-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மட்டன் மசாலா",
         "en": "MUTTON MASALA",
-        "image": "assets/ppt-4-9.webp",
+        "image": "assets/product-photos-v1/category-4-9.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-9"
+        "id": "category-4-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பெருங்காயத் தூள்",
         "en": "ASAFOETIDA POWDER",
-        "image": "assets/ppt-4-10.webp",
+        "image": "assets/product-photos-v1/category-4-10.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-10"
+        "id": "category-4-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வீட்டு முறை சாம்பார் தூள்",
         "en": "HANDPOUNDED SAMBAR POWDER",
-        "image": "assets/ppt-4-11.webp",
+        "image": "assets/product-photos-v1/category-4-11.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-11"
+        "id": "category-4-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வீட்டு முறை ரசம் தூள்",
         "en": "HANDPOUNDED RASAM POWDER",
-        "image": "assets/ppt-4-12.webp",
+        "image": "assets/product-photos-v1/category-4-12.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-12"
+        "id": "category-4-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வீட்டு முறை இட்லி பொடி",
         "en": "HANDPOUNDED IDLI POWDER",
-        "image": "assets/ppt-4-13.webp",
+        "image": "assets/product-photos-v1/category-4-13.webp",
         "source": "Approved brochure slide 4",
-        "id": "category-4-13"
+        "id": "category-4-13",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -350,93 +395,106 @@
       {
         "ta": "பிரண்டை தொக்கு",
         "en": "PIRANDAI THOKKU",
-        "image": "assets/ppt-5-1.webp",
+        "image": "assets/product-photos-v1/category-5-1.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-1"
+        "id": "category-5-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தக்காளி தொக்கு",
         "en": "TOMATO THOKKU",
-        "image": "assets/ppt-5-2.webp",
+        "image": "assets/product-photos-v1/category-5-2.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-2"
+        "id": "category-5-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "இஞ்சி தொக்கு",
         "en": "GINGER THOKKU",
-        "image": "assets/ppt-5-3.webp",
+        "image": "assets/product-photos-v1/category-5-3.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-3"
+        "id": "category-5-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "புளியோதரை தொக்கு",
         "en": "PULIOGARE THOKKU",
-        "image": "assets/ppt-5-4.webp",
+        "image": "assets/product-photos-v1/category-5-4.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-4"
+        "id": "category-5-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கறிவேப்பிலைத் தொக்கு",
         "en": "CURRY LEAF THOKKU",
-        "image": "assets/ppt-5-5.webp",
+        "image": "assets/product-photos-v1/category-5-5.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-5"
+        "id": "category-5-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வத்தக்குழம்பு",
         "en": "VATHAKULAMBU",
-        "image": "assets/ppt-5-6.webp",
+        "image": "assets/product-photos-v1/category-5-6.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-6"
+        "id": "category-5-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பூண்டு தொக்கு",
         "en": "GARLIC THOKKU",
-        "image": "assets/ppt-5-7.webp",
+        "image": "assets/product-photos-v1/category-5-7.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-7"
+        "id": "category-5-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தூதுவளைத் தொக்கு",
         "en": "THOOTHUVALAI THOKKU",
-        "image": "assets/ppt-5-8.webp",
+        "image": "assets/product-photos-v1/category-5-8.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-8"
+        "id": "category-5-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "புதினா தொக்கு",
         "en": "MINT THOKKU",
-        "image": "assets/ppt-5-9.webp",
+        "image": "assets/product-photos-v1/category-5-9.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-9"
+        "id": "category-5-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மா இஞ்சி தொக்கு",
         "en": "MAA INJI THOKKU",
-        "image": "assets/ppt-5-10.webp",
+        "image": "assets/product-photos-v1/category-5-10.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-10"
+        "id": "category-5-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நெல்லிக்காய்த் தொக்கு",
         "en": "AMLA THOKKU",
-        "image": "assets/ppt-5-11.webp",
+        "image": "assets/product-photos-v1/category-5-11.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-11"
+        "id": "category-5-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முடக்கத்தான் தொக்கு",
         "en": "MUDAKATHAN THOKKU",
-        "image": "assets/ppt-5-12.webp",
+        "image": "assets/product-photos-v1/category-5-12.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-12"
+        "id": "category-5-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சின்ன வெங்காய தொக்கு",
         "en": "CHINNA VENGAYAM THOKKU",
-        "image": "assets/ppt-5-13.webp",
+        "image": "assets/product-photos-v1/category-5-13.webp",
         "source": "Approved brochure slide 5",
-        "id": "category-5-13"
+        "id": "category-5-13",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -448,37 +506,42 @@
       {
         "ta": "முடக்கத்தான் சூப்",
         "en": "MUDAKATHAN SOUP MIX",
-        "image": "assets/ppt-6-1.webp",
+        "image": "assets/product-photos-v1/category-6-1.webp",
         "source": "Approved brochure slide 6",
-        "id": "category-6-1"
+        "id": "category-6-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முருங்கை சூப்",
         "en": "MORINGA SOUP MIX",
-        "image": "assets/ppt-6-2.webp",
+        "image": "assets/product-photos-v1/category-6-2.webp",
         "source": "Approved brochure slide 6",
-        "id": "category-6-2"
+        "id": "category-6-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வாழைத்தண்டு சூப்",
         "en": "BANANA STEM SOUP MIX",
-        "image": "assets/ppt-6-3.webp",
+        "image": "assets/product-photos-v1/category-6-3.webp",
         "source": "Approved brochure slide 6",
-        "id": "category-6-3"
+        "id": "category-6-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தூதுவளை சூப்",
         "en": "THOOTHUVALAI SOUP MIX",
-        "image": "assets/ppt-6-4.webp",
+        "image": "assets/product-photos-v1/category-6-4.webp",
         "source": "Approved brochure slide 6",
-        "id": "category-6-4"
+        "id": "category-6-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முடவாட்டுக்கால் சூப்",
         "en": "MUDAVATTUKAAL SOUP MIX",
-        "image": "assets/ppt-6-5.webp",
+        "image": "assets/product-photos-v1/category-6-5.webp",
         "source": "Approved brochure slide 6",
-        "id": "category-6-5"
+        "id": "category-6-5",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -490,100 +553,114 @@
       {
         "ta": "A2 ஆர்கானிக் பால்",
         "en": "A2 DESI ORGANIC MILK",
-        "image": "assets/ppt-7-1.webp",
+        "image": "assets/product-photos-v1/category-7-1.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-1"
+        "id": "category-7-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆர்கானிக் பசு நெய்",
         "en": "ORGANIC COW GHEE",
-        "image": "assets/ppt-7-2.webp",
+        "image": "assets/product-photos-v1/category-7-2.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-2"
+        "id": "category-7-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பசு நெய்",
         "en": "COW GHEE",
-        "image": "assets/ppt-7-3.webp",
+        "image": "assets/product-photos-v1/category-7-3.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-3"
+        "id": "category-7-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மலாய் பன்னீர்",
         "en": "MALAI PANEER",
-        "image": "assets/ppt-7-4.webp",
+        "image": "assets/product-photos-v1/category-7-4.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-4"
+        "id": "category-7-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "அதிக புரதம் கொண்ட பன்னீர்",
         "en": "HIGH PROTEIN PANEER",
-        "image": "assets/ppt-7-5.webp",
+        "image": "assets/product-photos-v1/category-7-5.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-5"
+        "id": "category-7-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆர்கானிக் தயிர்",
         "en": "ORGANIC CURD",
-        "image": "assets/ppt-7-6.webp",
+        "image": "assets/product-photos-v1/category-7-6.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-6"
+        "id": "category-7-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மோர்",
         "en": "BUTTERMILK",
-        "image": "assets/ppt-7-7.webp",
+        "image": "assets/product-photos-v1/category-7-7.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-7"
+        "id": "category-7-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆர்கானிக் வெண்ணெய்",
         "en": "ORGANIC BUTTER",
-        "image": "assets/ppt-7-8.webp",
+        "image": "assets/product-photos-v1/category-7-8.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-8"
+        "id": "category-7-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சீஸ்",
         "en": "CHEESE – PLAIN, PIZZA, SMOKED",
-        "image": "assets/ppt-7-9.webp",
+        "image": "assets/product-photos-v1/category-7-9.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-9"
+        "id": "category-7-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "யோகர்ட்",
         "en": "YOGHURT – PLAIN & MANGO",
-        "image": "assets/ppt-7-10.webp",
+        "image": "assets/product-photos-v1/category-7-10.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-10"
+        "id": "category-7-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பாதாம் பால்",
         "en": "BADAM MILK",
-        "image": "assets/ppt-7-11.webp",
+        "image": "assets/product-photos-v1/category-7-11.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-11"
+        "id": "category-7-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ரோஸ் மில்க்",
         "en": "ROSE MILK",
-        "image": "assets/ppt-7-12.webp",
+        "image": "assets/product-photos-v1/category-7-12.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-12"
+        "id": "category-7-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பிஸ்தா பால்",
         "en": "PISTAH MILK",
-        "image": "assets/ppt-7-13.webp",
+        "image": "assets/product-photos-v1/category-7-13.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-13"
+        "id": "category-7-13",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஏபிசி மில்க் ஷேக்",
         "en": "ABC MILK SHAKE",
-        "image": "assets/ppt-7-14.webp",
+        "image": "assets/product-photos-v1/category-7-14.webp",
         "source": "Approved brochure slide 7",
-        "id": "category-7-14"
+        "id": "category-7-14",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -595,58 +672,66 @@
       {
         "ta": "கேழ்வரகு மாவு",
         "en": "Raagi Flour",
-        "image": "assets/ppt-8-1.webp",
+        "image": "assets/product-photos-v1/category-8-1.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-1"
+        "id": "category-8-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கோதுமை மாவு",
         "en": "Wheat Flour",
-        "image": "assets/ppt-8-2.webp",
+        "image": "assets/product-photos-v1/category-8-2.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-2"
+        "id": "category-8-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கம்பு மாவு",
         "en": "Pearl Millet Flour (Kambu)",
-        "image": "assets/ppt-8-3.webp",
+        "image": "assets/product-photos-v1/category-8-3.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-3"
+        "id": "category-8-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சம்பா ரவை",
         "en": "Samba Ravai (Semolina Broken)",
-        "image": "assets/ppt-8-4.webp",
+        "image": "assets/product-photos-v1/category-8-4.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-4"
+        "id": "category-8-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறுதானிய தோசை மாவு கலவை",
         "en": "Millet Dosa Flour Mix",
-        "image": "assets/ppt-8-5.webp",
+        "image": "assets/product-photos-v1/category-8-5.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-5"
+        "id": "category-8-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறுதானிய நூடுல்ஸ்",
         "en": "Millet Noodles",
-        "image": "assets/ppt-8-6.webp",
+        "image": "assets/product-photos-v1/category-8-6.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-6"
+        "id": "category-8-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறுதானிய பாஸ்தா",
         "en": "Millet Pasta",
-        "image": "assets/ppt-8-7.webp",
+        "image": "assets/product-photos-v1/category-8-7.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-7"
+        "id": "category-8-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறுதானிய சேமியா",
         "en": "Millet Vermicelli (Semiya)",
-        "image": "assets/ppt-8-8.webp",
+        "image": "assets/product-photos-v1/category-8-8.webp",
         "source": "Latest workbook + approved brochure",
-        "id": "category-8-8"
+        "id": "category-8-8",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -658,93 +743,106 @@
       {
         "ta": "பூசணி விதை",
         "en": "PUMPKIN SEEDS",
-        "image": "assets/ppt-9-1.webp",
+        "image": "assets/product-photos-v1/category-9-1.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-1"
+        "id": "category-9-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சூரியகாந்தி விதை",
         "en": "SUNFLOWER SEEDS",
-        "image": "assets/ppt-9-2.webp",
+        "image": "assets/product-photos-v1/category-9-2.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-2"
+        "id": "category-9-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தர்பூசணி விதை",
         "en": "WATERMELON SEEDS",
-        "image": "assets/ppt-9-3.webp",
+        "image": "assets/product-photos-v1/category-9-3.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-3"
+        "id": "category-9-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வெள்ளரி விதை",
         "en": "CUCUMBER SEEDS",
-        "image": "assets/ppt-9-4.webp",
+        "image": "assets/product-photos-v1/category-9-4.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-4"
+        "id": "category-9-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆளி விதை",
         "en": "FLAX SEEDS",
-        "image": "assets/ppt-9-5.webp",
+        "image": "assets/product-photos-v1/category-9-5.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-5"
+        "id": "category-9-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "தாமரை விதை (மகானா)",
         "en": "LOTUS SEED / MAKHANA",
-        "image": "assets/ppt-9-6.webp",
+        "image": "assets/product-photos-v1/category-9-6.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-6"
+        "id": "category-9-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சப்ஜா விதை",
         "en": "SABJA SEEDS",
-        "image": "assets/ppt-9-7.webp",
+        "image": "assets/product-photos-v1/category-9-7.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-7"
+        "id": "category-9-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சியா விதை",
         "en": "CHIA SEEDS",
-        "image": "assets/ppt-9-8.webp",
+        "image": "assets/product-photos-v1/category-9-8.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-8"
+        "id": "category-9-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஹலீம் விதை",
         "en": "HALEEM SEEDS",
-        "image": "assets/ppt-9-9.webp",
+        "image": "assets/product-photos-v1/category-9-9.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-9"
+        "id": "category-9-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பாதாம் பிசின்",
         "en": "BADAM PISIN",
-        "image": "assets/ppt-9-10.webp",
+        "image": "assets/product-photos-v1/category-9-10.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-10"
+        "id": "category-9-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வெள்ளை எள்",
         "en": "WHITE SESAME",
-        "image": "assets/ppt-9-11.webp",
+        "image": "assets/product-photos-v1/category-9-11.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-11"
+        "id": "category-9-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கருப்பு எள்",
         "en": "BLACK SESAME",
-        "image": "assets/ppt-9-12.webp",
+        "image": "assets/product-photos-v1/category-9-12.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-12"
+        "id": "category-9-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நெய்யில் வறுத்த கலவை விதைகள் மற்றும் உலர் பழங்கள்–நட்ஸ்",
         "en": "MIXED SEEDS WITH DRY FRUITS & NUTS ROASTED IN GHEE",
-        "image": "assets/ppt-9-13.webp",
+        "image": "assets/product-photos-v1/category-9-13.webp",
         "source": "Approved brochure slide 9",
-        "id": "category-9-13"
+        "id": "category-9-13",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -756,86 +854,98 @@
       {
         "ta": "இயற்கையான தேயிலைத் தூள்",
         "en": "ORGANIC TEA POWDER – DUST",
-        "image": "assets/ppt-10-1.webp",
+        "image": "assets/product-photos-v1/category-10-1.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-1"
+        "id": "category-10-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "இயற்கை தேயிலைத் தூள் (இலை)",
         "en": "ORGANIC TEA POWDER – LEAF",
-        "image": "assets/ppt-10-2.webp",
+        "image": "assets/product-photos-v1/category-10-2.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-2"
+        "id": "category-10-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மசாலா தேயிலைத் தூள்",
         "en": "MASALA TEA POWDER",
-        "image": "assets/ppt-10-3.webp",
+        "image": "assets/product-photos-v1/category-10-3.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-3"
+        "id": "category-10-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நன்னாரி தேயிலைத் தூள்",
         "en": "NANNARI TEA POWDER",
-        "image": "assets/ppt-10-4.webp",
+        "image": "assets/product-photos-v1/category-10-4.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-4"
+        "id": "category-10-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆவாரம் பூ கொய்யா இலை தேநீர்",
         "en": "AVARAMPOO GUAVA LEAF TEA",
-        "image": "assets/ppt-10-5.webp",
+        "image": "assets/product-photos-v1/category-10-5.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-5"
+        "id": "category-10-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "டார்க் சாக்லேட் மிக்ஸ்",
         "en": "DARK CHOCOLATE MIX",
-        "image": "assets/ppt-10-6.webp",
+        "image": "assets/product-photos-v1/category-10-6.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-6"
+        "id": "category-10-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சங்குப்பூ தேநீர்",
         "en": "SANGUPOO TEA",
-        "image": "assets/ppt-10-7.webp",
+        "image": "assets/product-photos-v1/category-10-7.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-7"
+        "id": "category-10-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பச்சை தேநீர்",
         "en": "GREEN TEA",
-        "image": "assets/ppt-10-8.webp",
+        "image": "assets/product-photos-v1/category-10-8.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-8"
+        "id": "category-10-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "செம்பருத்தி தேநீர்",
         "en": "SEMPARUTHI TEA",
-        "image": "assets/ppt-10-9.webp",
+        "image": "assets/product-photos-v1/category-10-9.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-9"
+        "id": "category-10-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஆவாரம் பூ தேநீர்",
         "en": "AVARAMPOO TEA",
-        "image": "assets/ppt-10-10.webp",
+        "image": "assets/product-photos-v1/category-10-10.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-10"
+        "id": "category-10-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "காமோமைல் தேநீர்",
         "en": "CHAMOMILE TEA",
-        "image": "assets/ppt-10-11.webp",
+        "image": "assets/product-photos-v1/category-10-11.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-11"
+        "id": "category-10-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சுக்குமல்லி காபி",
         "en": "SUKKUMALLI COFFEE",
-        "image": "assets/ppt-10-12.webp",
+        "image": "assets/product-photos-v1/category-10-12.webp",
         "source": "Approved brochure slide 10",
-        "id": "category-10-12"
+        "id": "category-10-12",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -847,79 +957,90 @@
       {
         "ta": "ஏபிசி மால்ட்",
         "en": "ABC MALT",
-        "image": "assets/ppt-11-1.webp",
+        "image": "assets/product-photos-v1/category-11-1.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-1"
+        "id": "category-11-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "செவ்வாழை மால்ட்",
         "en": "RED BANANA MALT",
-        "image": "assets/ppt-11-2.webp",
+        "image": "assets/product-photos-v1/category-11-2.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-2"
+        "id": "category-11-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நேந்திரம் மால்ட்",
         "en": "NENDHIRAM MALT",
-        "image": "assets/ppt-11-3.webp",
+        "image": "assets/product-photos-v1/category-11-3.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-3"
+        "id": "category-11-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சாக்லேட் மால்ட்",
         "en": "CHOCO MALT",
-        "image": "assets/ppt-11-4.webp",
+        "image": "assets/product-photos-v1/category-11-4.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-4"
+        "id": "category-11-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பீட்ரூட் நட்ஸ் மால்ட்",
         "en": "BEET NUTS MALT",
-        "image": "assets/ppt-11-5.webp",
+        "image": "assets/product-photos-v1/category-11-5.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-5"
+        "id": "category-11-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கேரட் மால்ட்",
         "en": "CARROT MALT",
-        "image": "assets/ppt-11-6.webp",
+        "image": "assets/product-photos-v1/category-11-6.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-6"
+        "id": "category-11-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நட்ஸ் பூஸ்ட்",
         "en": "NUTS BOOST",
-        "image": "assets/ppt-11-7.webp",
+        "image": "assets/product-photos-v1/category-11-7.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-7"
+        "id": "category-11-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பயோடின் பவுடர்",
         "en": "BIOTIN POWDER FOR HEALTHY HAIR",
-        "image": "assets/ppt-11-8.webp",
+        "image": "assets/product-photos-v1/category-11-8.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-8"
+        "id": "category-11-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பருத்தி பால்",
         "en": "COTTON SEED MILK PARUTHI PAAL",
-        "image": "assets/ppt-11-9.webp",
+        "image": "assets/product-photos-v1/category-11-9.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-9"
+        "id": "category-11-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பசுமஞ்சள் மால்ட் (200g)",
         "en": "PASUMANJAL MALT 200g",
-        "image": "assets/ppt-11-10.webp",
+        "image": "assets/product-photos-v1/category-11-10.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-10"
+        "id": "category-11-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஒரிஜினல் பாதாம் பால் மிக்ஸ் (125g)",
         "en": "ORIGINAL BADAM MILK MIX – 125g",
-        "image": "assets/ppt-11-11.webp",
+        "image": "assets/product-photos-v1/category-11-11.webp",
         "source": "Approved brochure slide 11",
-        "id": "category-11-11"
+        "id": "category-11-11",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -931,79 +1052,90 @@
       {
         "ta": "கோவில்பட்டி கடலை மிட்டாய்",
         "en": "KOVILPATTI KADALAI MITTAI",
-        "image": "assets/ppt-12-1.webp",
+        "image": "assets/product-photos-v1/category-12-1.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-1"
+        "id": "category-12-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நாகர்கோவில் நேந்திரம் சிப்ஸ்",
         "en": "NAGERCOIL NENDRAN CHIPS",
-        "image": "assets/ppt-12-2.webp",
+        "image": "assets/product-photos-v1/category-12-2.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-2"
+        "id": "category-12-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மணப்பாறை முறுக்கு",
         "en": "MANAPPARAI MURUKKU",
-        "image": "assets/ppt-12-3.webp",
+        "image": "assets/product-photos-v1/category-12-3.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-3"
+        "id": "category-12-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சாத்தூர் சேவு",
         "en": "SATTUR SEVEA",
-        "image": "assets/ppt-12-4.webp",
+        "image": "assets/product-photos-v1/category-12-4.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-4"
+        "id": "category-12-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஸ்ரீவில்லிபுத்தூர் பால்கோவா",
         "en": "SRIVILLIPUTHUR MILK KHOVA",
-        "image": "assets/ppt-12-5.webp",
+        "image": "assets/product-photos-v1/category-12-5.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-5"
+        "id": "category-12-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "திருநெல்வேலி ஸ்பெஷல் அல்வா",
         "en": "TIRUNELVELI SPECIAL HALWA",
-        "image": "assets/ppt-12-6.webp",
+        "image": "assets/product-photos-v1/category-12-6.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-6"
+        "id": "category-12-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஸ்பெஷல் கை முறுக்கு",
         "en": "SPECIAL KAI MURUKKU",
-        "image": "assets/ppt-12-7.webp",
+        "image": "assets/product-photos-v1/category-12-7.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-7"
+        "id": "category-12-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஊட்டி ஸ்பெஷல் வருக்கி",
         "en": "OOTY SPECIAL VARUKKI",
-        "image": "assets/ppt-12-8.webp",
+        "image": "assets/product-photos-v1/category-12-8.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-8"
+        "id": "category-12-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நாட்டு சக்கரை பால்கோவா",
         "en": "NATTU SAKKARAI PALKOVA",
-        "image": "assets/ppt-12-9.webp",
+        "image": "assets/product-photos-v1/category-12-9.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-9"
+        "id": "category-12-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ஸ்பெஷல் சவுத் இந்தியன் கார மிக்சர்",
         "en": "SPECIAL SOUTH INDIAN KARA MIXTURE",
-        "image": "assets/ppt-12-10.webp",
+        "image": "assets/product-photos-v1/category-12-10.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-10"
+        "id": "category-12-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "இஞ்சி முறப்பா",
         "en": "GINGER MURAPPA",
-        "image": "assets/ppt-12-11.webp",
+        "image": "assets/product-photos-v1/category-12-11.webp",
         "source": "Approved brochure slide 12",
-        "id": "category-12-11"
+        "id": "category-12-11",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1015,86 +1147,98 @@
       {
         "ta": "சிறுதானிய பிஸ்கட் வகைகள்",
         "en": "MILLET BISCUIT VARIETIES",
-        "image": "assets/ppt-13-1.webp",
+        "image": "assets/product-photos-v1/category-13-1.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-1"
+        "id": "category-13-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிறுதானிய லட்டு வகைகள்",
         "en": "MILLET LADDU VARIETIES",
-        "image": "assets/ppt-13-2.webp",
+        "image": "assets/product-photos-v1/category-13-2.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-2"
+        "id": "category-13-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "சிமிலி உருண்டை",
         "en": "CHIMILI ORUNDAI",
-        "image": "assets/ppt-13-3.webp",
+        "image": "assets/product-photos-v1/category-13-3.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-3"
+        "id": "category-13-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "எள்ளுருண்டை",
         "en": "SESAME BALLS – BLACK & WHITE",
-        "image": "assets/ppt-13-4.webp",
+        "image": "assets/product-photos-v1/category-13-4.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-4"
+        "id": "category-13-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நிலக்கடலை உருண்டை",
         "en": "PEANUT BALLS",
-        "image": "assets/ppt-13-5.webp",
+        "image": "assets/product-photos-v1/category-13-5.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-5"
+        "id": "category-13-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நிலக்கடலை பர்ஃபி",
         "en": "PEANUT BARFI",
-        "image": "assets/ppt-13-6.webp",
+        "image": "assets/product-photos-v1/category-13-6.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-6"
+        "id": "category-13-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "எள்ளு பர்ஃபி",
         "en": "SESAME BARFI – BLACK & WHITE",
-        "image": "assets/ppt-13-7.webp",
+        "image": "assets/product-photos-v1/category-13-7.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-7"
+        "id": "category-13-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நைஸ் பர்ஃபி",
         "en": "NICE BARFI",
-        "image": "assets/ppt-13-8.webp",
+        "image": "assets/product-photos-v1/category-13-8.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-8"
+        "id": "category-13-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ட்ரை ஃப்ரூட்ஸ் மற்றும் நட்ஸ் பர்ஃபி",
         "en": "DRY FRUIT & NUTS BARFI",
-        "image": "assets/ppt-13-9.webp",
+        "image": "assets/product-photos-v1/category-13-9.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-9"
+        "id": "category-13-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பாரம்பரிய அரிசி மற்றும் சிறுதானியங்கள் முறுக்கு",
         "en": "MILLETS AND TRADITIONAL RICE MURUKKU",
-        "image": "assets/ppt-13-10.webp",
+        "image": "assets/product-photos-v1/category-13-10.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-10"
+        "id": "category-13-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கோதுமை ரஸ்க்",
         "en": "WHEAT RUSK",
-        "image": "assets/ppt-13-11.webp",
+        "image": "assets/product-photos-v1/category-13-11.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-11"
+        "id": "category-13-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மெக்சிகன் அரிசி குச்சிகள்",
         "en": "MEXICAN RICE STICKS",
-        "image": "assets/ppt-13-12.webp",
+        "image": "assets/product-photos-v1/category-13-12.webp",
         "source": "Approved brochure slide 13",
-        "id": "category-13-12"
+        "id": "category-13-12",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1106,100 +1250,114 @@
       {
         "ta": "பேரீச்சம்பழம் பாதாம்",
         "en": "DATES BADAM",
-        "image": "assets/ppt-14-1.webp",
+        "image": "assets/product-photos-v1/category-14-1.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-1"
+        "id": "category-14-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பேரீச்சம்பழம் நட்ஸ் பைட்ஸ்",
         "en": "DATES NUTS BITES",
-        "image": "assets/ppt-14-2.webp",
+        "image": "assets/product-photos-v1/category-14-2.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-2"
+        "id": "category-14-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ட்ரை ஃப்ரூட்ஸ் மற்றும் நட்ஸ் கலவை",
         "en": "DRY FRUIT & NUTS MIX",
-        "image": "assets/ppt-14-3.webp",
+        "image": "assets/product-photos-v1/category-14-3.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-3"
+        "id": "category-14-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கேழ்வரகு பிரவுனி",
         "en": "RAAGI BROWNIE",
-        "image": "assets/ppt-14-4.webp",
+        "image": "assets/product-photos-v1/category-14-4.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-4"
+        "id": "category-14-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "காரமான வறுத்த மக்கானா",
         "en": "SPICY ROASTED MAKHANA",
-        "image": "assets/ppt-14-5.webp",
+        "image": "assets/product-photos-v1/category-14-5.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-5"
+        "id": "category-14-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நெய்யில் வறுத்த கலவையான விதைகள்",
         "en": "GHEE ROASTED MIXED SEEDS",
-        "image": "assets/ppt-14-6.webp",
+        "image": "assets/product-photos-v1/category-14-6.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-6"
+        "id": "category-14-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வறுத்த நிலக்கடலை",
         "en": "ROASTED SALTED GROUNDNUTS",
-        "image": "assets/ppt-14-7.webp",
+        "image": "assets/product-photos-v1/category-14-7.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-7"
+        "id": "category-14-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "உப்பு கடலை",
         "en": "ROASTED CHICKPEAS",
-        "image": "assets/ppt-14-8.webp",
+        "image": "assets/product-photos-v1/category-14-8.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-8"
+        "id": "category-14-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வறுத்த பட்டாணி",
         "en": "ROASTED GREEN PEAS",
-        "image": "assets/ppt-14-9.webp",
+        "image": "assets/product-photos-v1/category-14-9.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-9"
+        "id": "category-14-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பேரீச்சம்பழச் சாறு",
         "en": "DATES SYRUP",
-        "image": "assets/ppt-14-10.webp",
+        "image": "assets/product-photos-v1/category-14-10.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-10"
+        "id": "category-14-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நன்னாரி சர்பத் சாறு",
         "en": "NANNARI SARBATH SYRUP",
-        "image": "assets/ppt-14-11.webp",
+        "image": "assets/product-photos-v1/category-14-11.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-11"
+        "id": "category-14-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ரோஸ்மில்க் சாறு",
         "en": "ROSEMILK SYRUP",
-        "image": "assets/ppt-14-12.webp",
+        "image": "assets/product-photos-v1/category-14-12.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-12"
+        "id": "category-14-12",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பாதாம் மிக்ஸ்",
         "en": "BADAM DRINK MIX",
-        "image": "assets/ppt-14-13.webp",
+        "image": "assets/product-photos-v1/category-14-13.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-13"
+        "id": "category-14-13",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நாவல் பழம் சாறு",
         "en": "JAMUN MILK SARBATH",
-        "image": "assets/ppt-14-14.webp",
+        "image": "assets/product-photos-v1/category-14-14.webp",
         "source": "Approved brochure slide 14",
-        "id": "category-14-14"
+        "id": "category-14-14",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1211,86 +1369,98 @@
       {
         "ta": "கருப்பு கவுனி மிக்ஸ்",
         "en": "KARUPPU KAVUNI MIX",
-        "image": "assets/ppt-15-1.webp",
+        "image": "assets/product-photos-v1/category-15-1.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-1"
+        "id": "category-15-1",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கருப்பு உளுந்து கஞ்சி மிக்ஸ்",
         "en": "BLACK URAD PORRIDGE MIX",
-        "image": "assets/ppt-15-2.webp",
+        "image": "assets/product-photos-v1/category-15-2.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-2"
+        "id": "category-15-2",
+        "imageStyle": "photograph"
       },
       {
         "ta": "ரத்தசாலி மிக்ஸ்",
         "en": "RATHASAALI MIX",
-        "image": "assets/ppt-15-3.webp",
+        "image": "assets/product-photos-v1/category-15-3.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-3"
+        "id": "category-15-3",
+        "imageStyle": "photograph"
       },
       {
         "ta": "பூங்கார் மிக்ஸ் - பெண்கள் சிறப்பு",
         "en": "POONGAR MIX - WOMENS SPECIAL",
-        "image": "assets/ppt-15-4.webp",
+        "image": "assets/product-photos-v1/category-15-4.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-4"
+        "id": "category-15-4",
+        "imageStyle": "photograph"
       },
       {
         "ta": "மாப்பிள்ளை சம்பா மிக்ஸ் - ஆண்கள் சிறப்பு",
         "en": "MAPPILAI SAMBA MIX - MENS SPECIAL",
-        "image": "assets/ppt-15-5.webp",
+        "image": "assets/product-photos-v1/category-15-5.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-5"
+        "id": "category-15-5",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முளைகட்டிய சிறுதானிய மிக்ஸ்",
         "en": "SPROUTED MILLET MIX",
-        "image": "assets/ppt-15-6.webp",
+        "image": "assets/product-photos-v1/category-15-6.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-6"
+        "id": "category-15-6",
+        "imageStyle": "photograph"
       },
       {
         "ta": "நவதானியம் - நட்ஸ் ஹெல்த் மிக்ஸ் (குழந்தைகள் சிறப்பு)",
         "en": "NAVATHANIYA - NUTS HEALTH MIX (BABY SPECIAL)",
-        "image": "assets/ppt-15-7.webp",
+        "image": "assets/product-photos-v1/category-15-7.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-7"
+        "id": "category-15-7",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வாழைப்பழ ஹெல்த் மிக்ஸ் (சிறுதானியங்கள் மற்றும் நட்ஸ்)",
         "en": "BANANA HEALTH MIX (MILLETS AND NUTS)",
-        "image": "assets/ppt-15-8.webp",
+        "image": "assets/product-photos-v1/category-15-8.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-8"
+        "id": "category-15-8",
+        "imageStyle": "photograph"
       },
       {
         "ta": "வீட்டிலேயே தயாரித்த ஹெல்த் ஹார்லிக்ஸ் (குழந்தைகள் சிறப்பு)",
         "en": "HOMEMADE HEALTH HORLICKS (KIDS SPECIAL)",
-        "image": "assets/ppt-15-9.webp",
+        "image": "assets/product-photos-v1/category-15-9.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-9"
+        "id": "category-15-9",
+        "imageStyle": "photograph"
       },
       {
         "ta": "எடை குறைப்பு பவுடர் மிக்ஸ்",
         "en": "WEIGHT LOSS POWDER MIX",
-        "image": "assets/ppt-15-10.webp",
+        "image": "assets/product-photos-v1/category-15-10.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-10"
+        "id": "category-15-10",
+        "imageStyle": "photograph"
       },
       {
         "ta": "கருப்பு கவுனி அரிசி மாவு",
         "en": "KARUPPU KAVUNI RICE FLOUR",
-        "image": "assets/ppt-15-11.webp",
+        "image": "assets/product-photos-v1/category-15-11.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-11"
+        "id": "category-15-11",
+        "imageStyle": "photograph"
       },
       {
         "ta": "முருங்கை பொடி",
         "en": "MOORUNGA POWDER",
-        "image": "assets/ppt-15-12.webp",
+        "image": "assets/product-photos-v1/category-15-12.webp",
         "source": "Approved brochure slide 15",
-        "id": "category-15-12"
+        "id": "category-15-12",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1304,160 +1474,180 @@
         "ta": "மிளகு",
         "row": 5,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-1"
+        "image": "assets/product-photos-v1/01-spices-1.webp",
+        "id": "01-spices-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Cumin",
         "ta": "சீரகம்",
         "row": 6,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-2"
+        "image": "assets/product-photos-v1/01-spices-2.webp",
+        "id": "01-spices-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Fennel Seeds",
         "ta": "சோம்பு",
         "row": 7,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-3"
+        "image": "assets/product-photos-v1/01-spices-3.webp",
+        "id": "01-spices-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Cloves",
         "ta": "கிராம்பு",
         "row": 8,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-4"
+        "image": "assets/product-photos-v1/01-spices-4.webp",
+        "id": "01-spices-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Ceylon Cinnamon",
         "ta": "இலங்கை இலவங்கப்பட்டை",
         "row": 9,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-5"
+        "image": "assets/product-photos-v1/01-spices-5.webp",
+        "id": "01-spices-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Cinnamon Singapore",
         "ta": "சிங்கப்பூர் இலவங்கப்பட்டை",
         "row": 10,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-6"
+        "image": "assets/product-photos-v1/01-spices-6.webp",
+        "id": "01-spices-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Star Anise",
         "ta": "அன்னாசிப்பூ",
         "row": 11,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-7"
+        "image": "assets/product-photos-v1/01-spices-7.webp",
+        "id": "01-spices-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Bay Leaf",
         "ta": "பிரியாணி இலை",
         "row": 12,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-8"
+        "image": "assets/product-photos-v1/01-spices-8.webp",
+        "id": "01-spices-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Fenegreek",
         "ta": "வெந்தயம்",
         "row": 13,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-9"
+        "image": "assets/product-photos-v1/01-spices-9.webp",
+        "id": "01-spices-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Cardamom",
         "ta": "ஏலக்காய்",
         "row": 14,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-10"
+        "image": "assets/product-photos-v1/01-spices-10.webp",
+        "id": "01-spices-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Black Cumin",
         "ta": "கருஞ்சீரகம்",
         "row": 15,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-11"
+        "image": "assets/product-photos-v1/01-spices-11.webp",
+        "id": "01-spices-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Mustard Seeds",
         "ta": "கடுகு",
         "row": 16,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-12"
+        "image": "assets/product-photos-v1/01-spices-12.webp",
+        "id": "01-spices-12",
+        "imageStyle": "photograph"
       },
       {
         "en": "Turmeric",
         "ta": "மஞ்சள்",
         "row": 17,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-13"
+        "image": "assets/product-photos-v1/01-spices-13.webp",
+        "id": "01-spices-13",
+        "imageStyle": "photograph"
       },
       {
         "en": "Poppy Seeds",
         "ta": "கசகசா",
         "row": 18,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-14"
+        "image": "assets/product-photos-v1/01-spices-14.webp",
+        "id": "01-spices-14",
+        "imageStyle": "photograph"
       },
       {
         "en": "Wild Turmeric",
         "ta": "கஸ்தூரி மஞ்சள்",
         "row": 19,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-15"
+        "image": "assets/product-photos-v1/01-spices-15.webp",
+        "id": "01-spices-15",
+        "imageStyle": "photograph"
       },
       {
         "en": "Native Red Chilly",
         "ta": "நாட்டு சிவப்பு மிளகாய்",
         "row": 20,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-16"
+        "image": "assets/product-photos-v1/01-spices-16.webp",
+        "id": "01-spices-16",
+        "imageStyle": "photograph"
       },
       {
         "en": "Native Dhaniya",
         "ta": "நாட்டு தனியா",
         "row": 21,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-17"
+        "image": "assets/product-photos-v1/01-spices-17.webp",
+        "id": "01-spices-17",
+        "imageStyle": "photograph"
       },
       {
         "en": "Sukku",
         "ta": "சுக்கு",
         "row": 22,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-18"
+        "image": "assets/product-photos-v1/01-spices-18.webp",
+        "id": "01-spices-18",
+        "imageStyle": "photograph"
       },
       {
         "en": "Saffron",
         "ta": "குங்குமப்பூ",
         "row": 23,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-19"
+        "image": "assets/product-photos-v1/01-spices-19.webp",
+        "id": "01-spices-19",
+        "imageStyle": "photograph"
       },
       {
         "en": "Himalayan Pink Salt Powdered",
         "ta": "இந்து உப்பு",
         "row": 24,
         "source": "Latest workbook",
-        "image": null,
-        "id": "01-spices-20"
+        "image": "assets/product-photos-v1/01-spices-20.webp",
+        "id": "01-spices-20",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1471,320 +1661,360 @@
         "ta": "ஓமத் பொடி",
         "row": 29,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-0.webp",
-        "id": "02-herbal-powders-1-1"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-1.webp",
+        "id": "02-herbal-powders-1-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Sirukurinjan Powder",
         "ta": "சிறுகுறிஞ்சான் பொடி",
         "row": 30,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-1.webp",
-        "id": "02-herbal-powders-1-2"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-2.webp",
+        "id": "02-herbal-powders-1-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Mukkarattai Powder",
         "ta": "முக்கரட்டைத் பொடி",
         "row": 31,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-2.webp",
-        "id": "02-herbal-powders-1-3"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-3.webp",
+        "id": "02-herbal-powders-1-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Aswagandha Powder",
         "ta": "அசுவகந்தா பொடி",
         "row": 32,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-3.webp",
-        "id": "02-herbal-powders-1-4"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-4.webp",
+        "id": "02-herbal-powders-1-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Murungai Pisin Powder",
         "ta": "முருங்கைப் பிசின் பொடி",
         "row": 33,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-4.webp",
-        "id": "02-herbal-powders-1-5"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-5.webp",
+        "id": "02-herbal-powders-1-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Murungai Vidhai Powder",
         "ta": "முருங்கை விதைத் பொடி",
         "row": 34,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-5.webp",
-        "id": "02-herbal-powders-1-6"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-6.webp",
+        "id": "02-herbal-powders-1-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Karunjeeragam Powder",
         "ta": "கருஞ்சீரக பொடி",
         "row": 35,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-6.webp",
-        "id": "02-herbal-powders-1-7"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-7.webp",
+        "id": "02-herbal-powders-1-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kabasura Kudineer Chooranam",
         "ta": "கபசுரக் குடிநீர் சூரணம்",
         "row": 36,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-7.webp",
-        "id": "02-herbal-powders-1-8"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-8.webp",
+        "id": "02-herbal-powders-1-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Nilavembu Kudineer Chooranam",
         "ta": "நிலவேம்புக் குடிநீர் சூரணம்",
         "row": 37,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-8.webp",
-        "id": "02-herbal-powders-1-9"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-9.webp",
+        "id": "02-herbal-powders-1-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Adhimadhuram Powder",
         "ta": "அதிமதுரப் பொடி",
         "row": 38,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-9.webp",
-        "id": "02-herbal-powders-1-10"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-10.webp",
+        "id": "02-herbal-powders-1-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vasambu Powder",
         "ta": "வசம்பு பொடி",
         "row": 39,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-10.webp",
-        "id": "02-herbal-powders-1-11"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-11.webp",
+        "id": "02-herbal-powders-1-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Marudhani Powder",
         "ta": "மருதாணி பொடி",
         "row": 40,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-11.webp",
-        "id": "02-herbal-powders-1-12"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-12.webp",
+        "id": "02-herbal-powders-1-12",
+        "imageStyle": "photograph"
       },
       {
         "en": "Hibiscus Leaf Powder",
         "ta": "செம்பருத்தி இலைத் பொடி",
         "row": 41,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-12.webp",
-        "id": "02-herbal-powders-1-13"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-13.webp",
+        "id": "02-herbal-powders-1-13",
+        "imageStyle": "photograph"
       },
       {
         "en": "Hibiscus Flower Powder",
         "ta": "செம்பருத்திப்பூ பொடி",
         "row": 42,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-13.webp",
-        "id": "02-herbal-powders-1-14"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-14.webp",
+        "id": "02-herbal-powders-1-14",
+        "imageStyle": "photograph"
       },
       {
         "en": "Arugampul Powder",
         "ta": "அருகம்புல் பொடி",
         "row": 43,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-14.webp",
-        "id": "02-herbal-powders-1-15"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-15.webp",
+        "id": "02-herbal-powders-1-15",
+        "imageStyle": "photograph"
       },
       {
         "en": "Nerunji mul Powder",
         "ta": "நெருஞ்சிமுள் பொடி",
         "row": 44,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-15.webp",
-        "id": "02-herbal-powders-1-16"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-16.webp",
+        "id": "02-herbal-powders-1-16",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kalarchikai Powder",
         "ta": "கழற்சிக்காய் பொடி",
         "row": 45,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-16.webp",
-        "id": "02-herbal-powders-1-17"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-17.webp",
+        "id": "02-herbal-powders-1-17",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pappaya Leaf Powder",
         "ta": "பப்பாளி இலை பொடி",
         "row": 46,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-17.webp",
-        "id": "02-herbal-powders-1-18"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-18.webp",
+        "id": "02-herbal-powders-1-18",
+        "imageStyle": "photograph"
       },
       {
         "en": "Karuveppilai Powder",
         "ta": "கறிவேப்பிலை பொடி",
         "row": 47,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-18.webp",
-        "id": "02-herbal-powders-1-19"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-19.webp",
+        "id": "02-herbal-powders-1-19",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kasturi Manjal Powder",
         "ta": "கஸ்தூரி மஞ்சள் பொடி",
         "row": 48,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-19.webp",
-        "id": "02-herbal-powders-1-20"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-20.webp",
+        "id": "02-herbal-powders-1-20",
+        "imageStyle": "photograph"
       },
       {
         "en": "Irumal Choornam",
         "ta": "இருமல் சூரணம்",
         "row": 50,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-20.webp",
-        "id": "02-herbal-powders-1-21"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-21.webp",
+        "id": "02-herbal-powders-1-21",
+        "imageStyle": "photograph"
       },
       {
         "en": "Avarampoo Powder",
         "ta": "ஆவாரம் பூ பொடி",
         "row": 51,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-21.webp",
-        "id": "02-herbal-powders-1-22"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-22.webp",
+        "id": "02-herbal-powders-1-22",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kadukkai Powder",
         "ta": "கடுக்காய் பொடி",
         "row": 52,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-22.webp",
-        "id": "02-herbal-powders-1-23"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-23.webp",
+        "id": "02-herbal-powders-1-23",
+        "imageStyle": "photograph"
       },
       {
         "en": "Avuri Neeli Powder",
         "ta": "அவுரி நீலி பொடி",
         "row": 53,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-23.webp",
-        "id": "02-herbal-powders-1-24"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-24.webp",
+        "id": "02-herbal-powders-1-24",
+        "imageStyle": "photograph"
       },
       {
         "en": "Nilavarai powder",
         "ta": "நிலாவரை பொடி",
         "row": 54,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-24.webp",
-        "id": "02-herbal-powders-1-25"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-25.webp",
+        "id": "02-herbal-powders-1-25",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thirikadugam Powder",
         "ta": "திரிகடுக பொடி",
         "row": 55,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-25.webp",
-        "id": "02-herbal-powders-1-26"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-26.webp",
+        "id": "02-herbal-powders-1-26",
+        "imageStyle": "photograph"
       },
       {
         "en": "Neem Leaf Powder",
         "ta": "வேப்பிலை பொடி",
         "row": 56,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-26.webp",
-        "id": "02-herbal-powders-1-27"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-27.webp",
+        "id": "02-herbal-powders-1-27",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thoothuvalai Powder",
         "ta": "தூதுவளை பொடி",
         "row": 57,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-27.webp",
-        "id": "02-herbal-powders-1-28"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-28.webp",
+        "id": "02-herbal-powders-1-28",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thuthi Ilai Powder",
         "ta": "துத்தி இலை பொடி",
         "row": 58,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-28.webp",
-        "id": "02-herbal-powders-1-29"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-29.webp",
+        "id": "02-herbal-powders-1-29",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vallarai Powder",
         "ta": "வல்லாரை பொடி",
         "row": 59,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-29.webp",
-        "id": "02-herbal-powders-1-30"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-30.webp",
+        "id": "02-herbal-powders-1-30",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pirandai Powder",
         "ta": "பிரண்டை பொடி",
         "row": 60,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-30.webp",
-        "id": "02-herbal-powders-1-31"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-31.webp",
+        "id": "02-herbal-powders-1-31",
+        "imageStyle": "photograph"
       },
       {
         "en": "Naaval Kottai Powder",
         "ta": "நாவல் கொட்டைப் பொடி",
         "row": 61,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-31.webp",
-        "id": "02-herbal-powders-1-32"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-32.webp",
+        "id": "02-herbal-powders-1-32",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thippili Powder",
         "ta": "திப்பிலி பொடி",
         "row": 62,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-32.webp",
-        "id": "02-herbal-powders-1-33"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-33.webp",
+        "id": "02-herbal-powders-1-33",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thiratchai Choornam",
         "ta": "திராட்சை சூரணம்",
         "row": 63,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-33.webp",
-        "id": "02-herbal-powders-1-34"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-34.webp",
+        "id": "02-herbal-powders-1-34",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thiripala Chooranam",
         "ta": "திரிபலா சூரணம்",
         "row": 64,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-34.webp",
-        "id": "02-herbal-powders-1-35"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-35.webp",
+        "id": "02-herbal-powders-1-35",
+        "imageStyle": "photograph"
       },
       {
         "en": "Sakkarai Kolli",
         "ta": "சர்க்கரைக்கொல்லி",
         "row": 65,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-35.webp",
-        "id": "02-herbal-powders-1-36"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-36.webp",
+        "id": "02-herbal-powders-1-36",
+        "imageStyle": "photograph"
       },
       {
         "en": "Adathodai Powder",
         "ta": "ஆடாதொடை பொடி",
         "row": 66,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-36.webp",
-        "id": "02-herbal-powders-1-37"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-37.webp",
+        "id": "02-herbal-powders-1-37",
+        "imageStyle": "photograph"
       },
       {
         "en": "Amla Powder",
         "ta": "நெல்லிக்காய் பொடி",
         "row": 67,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-37.webp",
-        "id": "02-herbal-powders-1-38"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-38.webp",
+        "id": "02-herbal-powders-1-38",
+        "imageStyle": "photograph"
       },
       {
         "en": "Karisalankanni Powder",
         "ta": "கரிசலாங்கண்ணி பொடி",
         "row": 68,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-38.webp",
-        "id": "02-herbal-powders-1-39"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-39.webp",
+        "id": "02-herbal-powders-1-39",
+        "imageStyle": "photograph"
       },
       {
         "en": "Spade Flower Powder",
         "ta": "ஓரிதழ் தாமரை பொடி",
         "row": 69,
         "source": "Latest workbook",
-        "image": "assets/02-herbal-powders-1-39.webp",
-        "id": "02-herbal-powders-1-40"
+        "image": "assets/product-photos-v1/02-herbal-powders-1-40.webp",
+        "id": "02-herbal-powders-1-40",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1798,104 +2028,117 @@
         "ta": "தூயமல்லி புழுங்கல் அரிசி",
         "row": 74,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-0.webp",
-        "id": "04-traditional-white-rice-1"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-1.webp",
+        "id": "04-traditional-white-rice-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thooyamalli Raw Rice",
         "ta": "தூயமல்லி பச்சரிசி",
         "row": 75,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-1.webp",
-        "id": "04-traditional-white-rice-2"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-2.webp",
+        "id": "04-traditional-white-rice-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thooyamalli Kaikuthal Rice",
         "ta": "தூயமல்லி கைக்குத்தல் அரிசி",
         "row": 76,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-2.webp",
-        "id": "04-traditional-white-rice-3"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-3.webp",
+        "id": "04-traditional-white-rice-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Attur Kichali Samba",
         "ta": "ஆத்தூர் கிச்சலி சம்பா",
         "row": 77,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-3.webp",
-        "id": "04-traditional-white-rice-4"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-4.webp",
+        "id": "04-traditional-white-rice-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thanga Samba",
         "ta": "தங்க சம்பா",
         "row": 78,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-4.webp",
-        "id": "04-traditional-white-rice-5"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-5.webp",
+        "id": "04-traditional-white-rice-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vasanai Seeraga Samba Raw Rice",
         "ta": "வாசனை சீரக சம்பா பச்சரிசி",
         "row": 79,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-5.webp",
-        "id": "04-traditional-white-rice-6"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-6.webp",
+        "id": "04-traditional-white-rice-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vasanai Seeraga Samba Boiled Rice",
         "ta": "வாசனை சீரக சம்பா புழுங்கல் அரிசி",
         "row": 80,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-6.webp",
-        "id": "04-traditional-white-rice-7"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-7.webp",
+        "id": "04-traditional-white-rice-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vasanai Seeraga Samba Kaikuthal Rice",
         "ta": "வாசனை சீரக சம்பா கைக்குத்தல் அரிசி",
         "row": 81,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-7.webp",
-        "id": "04-traditional-white-rice-8"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-8.webp",
+        "id": "04-traditional-white-rice-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Eramalli Rice",
         "ta": "எரமல்லி அரிசி",
         "row": 82,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-8.webp",
-        "id": "04-traditional-white-rice-9"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-9.webp",
+        "id": "04-traditional-white-rice-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Ponni Raw Rice",
         "ta": "பொன்னி பச்சரிசி",
         "row": 83,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-9.webp",
-        "id": "04-traditional-white-rice-10"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-10.webp",
+        "id": "04-traditional-white-rice-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Sivan Samba Rice",
         "ta": "சிவன் சம்பா அரிசி",
         "row": 84,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-10.webp",
-        "id": "04-traditional-white-rice-11"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-11.webp",
+        "id": "04-traditional-white-rice-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Basmati Rice(Classic)",
         "ta": "பாசுமதி அரிசி",
         "row": 85,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-11.webp",
-        "id": "04-traditional-white-rice-12"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-12.webp",
+        "id": "04-traditional-white-rice-12",
+        "imageStyle": "photograph"
       },
       {
         "en": "Idly Rice",
         "ta": "இட்லி அரிசி",
         "row": 86,
         "source": "Latest workbook",
-        "image": "assets/04-traditional-white-rice-12.webp",
-        "id": "04-traditional-white-rice-13"
+        "image": "assets/product-photos-v1/04-traditional-white-rice-13.webp",
+        "id": "04-traditional-white-rice-13",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -1909,120 +2152,135 @@
         "ta": "கருப்பு கவுனி அரிசி",
         "row": 90,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-0.webp",
-        "id": "05-traditional-black-brown-red-rice-1"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-1.webp",
+        "id": "05-traditional-black-brown-red-rice-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kaatu Yaanam Rice",
         "ta": "காட்டுயானம் அரிசி",
         "row": 91,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-1.webp",
-        "id": "05-traditional-black-brown-red-rice-2"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-2.webp",
+        "id": "05-traditional-black-brown-red-rice-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Poongar Rice",
         "ta": "பூங்கார் அரிசி",
         "row": 92,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-2.webp",
-        "id": "05-traditional-black-brown-red-rice-3"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-3.webp",
+        "id": "05-traditional-black-brown-red-rice-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kullakar Rice",
         "ta": "குள்ளக்கார் அரிசி",
         "row": 93,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-3.webp",
-        "id": "05-traditional-black-brown-red-rice-4"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-4.webp",
+        "id": "05-traditional-black-brown-red-rice-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Karunkuruvai Rice",
         "ta": "கருங்குறுவை அரிசி",
         "row": 94,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-4.webp",
-        "id": "05-traditional-black-brown-red-rice-5"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-5.webp",
+        "id": "05-traditional-black-brown-red-rice-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Rathasaali Rice",
         "ta": "ரத்தசாலி அரிசி",
         "row": 95,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-5.webp",
-        "id": "05-traditional-black-brown-red-rice-6"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-6.webp",
+        "id": "05-traditional-black-brown-red-rice-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kallundai Samba Rice",
         "ta": "கல்லுண்டை சம்பா அரிசி",
         "row": 96,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-6.webp",
-        "id": "05-traditional-black-brown-red-rice-7"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-7.webp",
+        "id": "05-traditional-black-brown-red-rice-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Maapillai Samba Rice",
         "ta": "மாப்பிள்ளை சம்பா அரிசி",
         "row": 97,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-7.webp",
-        "id": "05-traditional-black-brown-red-rice-8"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-8.webp",
+        "id": "05-traditional-black-brown-red-rice-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Moongil Rice (Bamboo)",
         "ta": "மூங்கில் அரிசி",
         "row": 98,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-8.webp",
-        "id": "05-traditional-black-brown-red-rice-9"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-9.webp",
+        "id": "05-traditional-black-brown-red-rice-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Red Rice",
         "ta": "சிவப்பு அரிசி",
         "row": 99,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-9.webp",
-        "id": "05-traditional-black-brown-red-rice-10"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-10.webp",
+        "id": "05-traditional-black-brown-red-rice-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Matta Rice (Kerala)",
         "ta": "மட்டை அரிசி (கேரள அரிசி)",
         "row": 100,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-10.webp",
-        "id": "05-traditional-black-brown-red-rice-11"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-11.webp",
+        "id": "05-traditional-black-brown-red-rice-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Mani Samba Rice",
         "ta": "மணி சம்பா அரிசி",
         "row": 101,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-11.webp",
-        "id": "05-traditional-black-brown-red-rice-12"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-12.webp",
+        "id": "05-traditional-black-brown-red-rice-12",
+        "imageStyle": "photograph"
       },
       {
         "en": "Milagu Samba Rice",
         "ta": "மிளகு சம்பா அரிசி",
         "row": 102,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-12.webp",
-        "id": "05-traditional-black-brown-red-rice-13"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-13.webp",
+        "id": "05-traditional-black-brown-red-rice-13",
+        "imageStyle": "photograph"
       },
       {
         "en": "Rajamudi Rice",
         "ta": "ராஜமுடி அரிசி",
         "row": 103,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-13.webp",
-        "id": "05-traditional-black-brown-red-rice-14"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-14.webp",
+        "id": "05-traditional-black-brown-red-rice-14",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kalanamak Rice",
         "ta": "காலா நமக் அரிசி",
         "row": 104,
         "source": "Latest workbook",
-        "image": "assets/05-traditional-black-brown-red-rice-14.webp",
-        "id": "05-traditional-black-brown-red-rice-15"
+        "image": "assets/product-photos-v1/05-traditional-black-brown-red-rice-15.webp",
+        "id": "05-traditional-black-brown-red-rice-15",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2036,40 +2294,45 @@
         "ta": "மாப்பிள்ளை சம்பா அவல்",
         "row": 108,
         "source": "Latest workbook",
-        "image": null,
-        "id": "06-traditional-rice-aval-1"
+        "image": "assets/product-photos-v1/06-traditional-rice-aval-1.webp",
+        "id": "06-traditional-rice-aval-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kattuyanam Aval",
         "ta": "காட்டுயாணம் அவல்",
         "row": 109,
         "source": "Latest workbook",
-        "image": null,
-        "id": "06-traditional-rice-aval-2"
+        "image": "assets/product-photos-v1/06-traditional-rice-aval-2.webp",
+        "id": "06-traditional-rice-aval-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Karuppu Kavuni Aval",
         "ta": "கருப்பு கவுனி அவல்",
         "row": 110,
         "source": "Latest workbook",
-        "image": null,
-        "id": "06-traditional-rice-aval-3"
+        "image": "assets/product-photos-v1/06-traditional-rice-aval-3.webp",
+        "id": "06-traditional-rice-aval-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Poongar Aval",
         "ta": "பூங்கார் அவல்",
         "row": 111,
         "source": "Latest workbook",
-        "image": null,
-        "id": "06-traditional-rice-aval-4"
+        "image": "assets/product-photos-v1/06-traditional-rice-aval-4.webp",
+        "id": "06-traditional-rice-aval-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Thooyamalli Aval",
         "ta": "தூயமல்லி அவல்",
         "row": 112,
         "source": "Latest workbook",
-        "image": null,
-        "id": "06-traditional-rice-aval-5"
+        "image": "assets/product-photos-v1/06-traditional-rice-aval-5.webp",
+        "id": "06-traditional-rice-aval-5",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2083,88 +2346,99 @@
         "ta": "குதிரைவாலி",
         "row": 116,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-1"
+        "image": "assets/product-photos-v1/07-millet-varieties-1.webp",
+        "id": "07-millet-varieties-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kodo (Varagu) Millet",
         "ta": "வரகு",
         "row": 117,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-2"
+        "image": "assets/product-photos-v1/07-millet-varieties-2.webp",
+        "id": "07-millet-varieties-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Proso Millet",
         "ta": "பனிவரகு",
         "row": 118,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-3"
+        "image": "assets/product-photos-v1/07-millet-varieties-3.webp",
+        "id": "07-millet-varieties-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Foxtail (Thinai) Millet",
         "ta": "தினை",
         "row": 119,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-4"
+        "image": "assets/product-photos-v1/07-millet-varieties-4.webp",
+        "id": "07-millet-varieties-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Little (Saamai) Millet",
         "ta": "சாமை",
         "row": 120,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-5"
+        "image": "assets/product-photos-v1/07-millet-varieties-5.webp",
+        "id": "07-millet-varieties-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kulasamai",
         "ta": "குலசாமை",
         "row": 121,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-6"
+        "image": "assets/product-photos-v1/07-millet-varieties-6.webp",
+        "id": "07-millet-varieties-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Jowar (White, Red-Solam) Millet",
         "ta": "சோளம் (வெள்ளை, சிவப்பு)",
         "row": 122,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-7"
+        "image": "assets/product-photos-v1/07-millet-varieties-7.webp",
+        "id": "07-millet-varieties-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Raagi (Kelvaragu) Millet",
         "ta": "கேழ்வரகு",
         "row": 123,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-8"
+        "image": "assets/product-photos-v1/07-millet-varieties-8.webp",
+        "id": "07-millet-varieties-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pearl (Bajra, Kambu) Millet",
         "ta": "கம்பு",
         "row": 124,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-9"
+        "image": "assets/product-photos-v1/07-millet-varieties-9.webp",
+        "id": "07-millet-varieties-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Barley",
         "ta": "பார்லி",
         "row": 125,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-10"
+        "image": "assets/product-photos-v1/07-millet-varieties-10.webp",
+        "id": "07-millet-varieties-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Wheat",
         "ta": "கோதுமை",
         "row": 126,
         "source": "Latest workbook",
-        "image": null,
-        "id": "07-millet-varieties-11"
+        "image": "assets/product-photos-v1/07-millet-varieties-11.webp",
+        "id": "07-millet-varieties-11",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2178,88 +2452,99 @@
         "ta": "நாட்டு முந்திரி",
         "row": 130,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-0.webp",
-        "id": "08-nuts-and-dates-1"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-1.webp",
+        "id": "08-nuts-and-dates-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Chilly Cashewnut",
         "ta": "மிளகாய் முந்திரி",
         "row": 131,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-1.webp",
-        "id": "08-nuts-and-dates-2"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-2.webp",
+        "id": "08-nuts-and-dates-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pepper Cashewnut",
         "ta": "மிளகு முந்திரி",
         "row": 132,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-2.webp",
-        "id": "08-nuts-and-dates-3"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-3.webp",
+        "id": "08-nuts-and-dates-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Badam",
         "ta": "பாதாம்",
         "row": 133,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-3.webp",
-        "id": "08-nuts-and-dates-4"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-4.webp",
+        "id": "08-nuts-and-dates-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pista Salted",
         "ta": "உப்பு சேர்த்த பிஸ்தா",
         "row": 134,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-4.webp",
-        "id": "08-nuts-and-dates-5"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-5.webp",
+        "id": "08-nuts-and-dates-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pista Unsalted",
         "ta": "பிஸ்தா பருப்பு",
         "row": 135,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-5.webp",
-        "id": "08-nuts-and-dates-6"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-6.webp",
+        "id": "08-nuts-and-dates-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Walnut",
         "ta": "அக்ரூட் பருப்பு",
         "row": 136,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-6.webp",
-        "id": "08-nuts-and-dates-7"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-7.webp",
+        "id": "08-nuts-and-dates-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Apricot",
         "ta": "பாதாமிப் பழம் (ஆப்ரிகாட்)",
         "row": 137,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-7.webp",
-        "id": "08-nuts-and-dates-8"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-8.webp",
+        "id": "08-nuts-and-dates-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Brown Dates",
         "ta": "பழுப்பு பேரீச்சம்பழம்",
         "row": 138,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-8.webp",
-        "id": "08-nuts-and-dates-9"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-9.webp",
+        "id": "08-nuts-and-dates-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Black Dates (Export Quality)",
         "ta": "கருப்பு பேரீச்சம்பழம் (உயர்தரம்)",
         "row": 139,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-9.webp",
-        "id": "08-nuts-and-dates-10"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-10.webp",
+        "id": "08-nuts-and-dates-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kimia Dates (Export Quality)",
         "ta": "கிமியா பேரீச்சம்பழம் (உயர்தரம்)",
         "row": 140,
         "source": "Latest workbook",
-        "image": "assets/08-nuts-and-dates-10.webp",
-        "id": "08-nuts-and-dates-11"
+        "image": "assets/product-photos-v1/08-nuts-and-dates-11.webp",
+        "id": "08-nuts-and-dates-11",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2273,80 +2558,90 @@
         "ta": "விதையுள்ள மஞ்சள் உலர் திராட்சை (அங்கூர்)",
         "row": 141,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-0.webp",
-        "id": "09-dry-fruits-1"
+        "image": "assets/product-photos-v1/09-dry-fruits-1.webp",
+        "id": "09-dry-fruits-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Raisin Yellow",
         "ta": "மஞ்சள் உலர் திராட்சை",
         "row": 142,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-1.webp",
-        "id": "09-dry-fruits-2"
+        "image": "assets/product-photos-v1/09-dry-fruits-2.webp",
+        "id": "09-dry-fruits-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Black Raisin",
         "ta": "கருப்பு உலர் திராட்சை",
         "row": 143,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-2.webp",
-        "id": "09-dry-fruits-3"
+        "image": "assets/product-photos-v1/09-dry-fruits-3.webp",
+        "id": "09-dry-fruits-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Fig",
         "ta": "உலர் அத்திப்பழம்",
         "row": 144,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-3.webp",
-        "id": "09-dry-fruits-4"
+        "image": "assets/product-photos-v1/09-dry-fruits-4.webp",
+        "id": "09-dry-fruits-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Strawberry",
         "ta": "உலர் ஸ்ட்ராபெர்ரி",
         "row": 145,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-4.webp",
-        "id": "09-dry-fruits-5"
+        "image": "assets/product-photos-v1/09-dry-fruits-5.webp",
+        "id": "09-dry-fruits-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Cranberry",
         "ta": "உலர் கிரான்பெர்ரி",
         "row": 146,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-5.webp",
-        "id": "09-dry-fruits-6"
+        "image": "assets/product-photos-v1/09-dry-fruits-6.webp",
+        "id": "09-dry-fruits-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Blueberry",
         "ta": "உலர் புளூபெர்ரி",
         "row": 147,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-6.webp",
-        "id": "09-dry-fruits-7"
+        "image": "assets/product-photos-v1/09-dry-fruits-7.webp",
+        "id": "09-dry-fruits-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Kiwi",
         "ta": "உலர் கிவிப் பழம்",
         "row": 148,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-7.webp",
-        "id": "09-dry-fruits-8"
+        "image": "assets/product-photos-v1/09-dry-fruits-8.webp",
+        "id": "09-dry-fruits-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Pineapple",
         "ta": "உலர் அன்னாசிப்பழம்",
         "row": 149,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-8.webp",
-        "id": "09-dry-fruits-9"
+        "image": "assets/product-photos-v1/09-dry-fruits-9.webp",
+        "id": "09-dry-fruits-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dry Mango",
         "ta": "உலர் மாம்பழம்",
         "row": 150,
         "source": "Latest workbook",
-        "image": "assets/09-dry-fruits-9.webp",
-        "id": "09-dry-fruits-10"
+        "image": "assets/product-photos-v1/09-dry-fruits-10.webp",
+        "id": "09-dry-fruits-10",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2360,96 +2655,108 @@
         "ta": "பூண்டு ஊறுகாய்",
         "row": 165,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-1"
+        "image": "assets/product-photos-v1/11-traditional-pickles-1.webp",
+        "id": "11-traditional-pickles-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Mango Pickle",
         "ta": "மாங்காய் ஊறுகாய்",
         "row": 166,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-2"
+        "image": "assets/product-photos-v1/11-traditional-pickles-2.webp",
+        "id": "11-traditional-pickles-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Avakkai Pickle",
         "ta": "ஆவக்காய் ஊறுகாய்",
         "row": 167,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-3"
+        "image": "assets/product-photos-v1/11-traditional-pickles-3.webp",
+        "id": "11-traditional-pickles-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Amla Pickle",
         "ta": "நெல்லிக்காய் ஊறுகாய்",
         "row": 168,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-4"
+        "image": "assets/product-photos-v1/11-traditional-pickles-4.webp",
+        "id": "11-traditional-pickles-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Maavadu",
         "ta": "வடுமாங்காய் ஊறுகாய்",
         "row": 169,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-5"
+        "image": "assets/product-photos-v1/11-traditional-pickles-5.webp",
+        "id": "11-traditional-pickles-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Citron Pickle",
         "ta": "நார்த்தங்காய் ஊறுகாய்",
         "row": 170,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-6"
+        "image": "assets/product-photos-v1/11-traditional-pickles-6.webp",
+        "id": "11-traditional-pickles-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vegetable Pickle",
         "ta": "காய்கறி ஊறுகாய்",
         "row": 171,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-7"
+        "image": "assets/product-photos-v1/11-traditional-pickles-7.webp",
+        "id": "11-traditional-pickles-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Ginger Pickle",
         "ta": "இஞ்சி ஊறுகாய்",
         "row": 172,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-8"
+        "image": "assets/product-photos-v1/11-traditional-pickles-8.webp",
+        "id": "11-traditional-pickles-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Lemon Pickle",
         "ta": "எலுமிச்சை ஊறுகாய்",
         "row": 173,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-9"
+        "image": "assets/product-photos-v1/11-traditional-pickles-9.webp",
+        "id": "11-traditional-pickles-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Banana Flower Pickle",
         "ta": "வாழைப்பூ ஊறுகாய்",
         "row": 174,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-10"
+        "image": "assets/product-photos-v1/11-traditional-pickles-10.webp",
+        "id": "11-traditional-pickles-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Banana Stem Pickle",
         "ta": "வாழைத்தண்டு ஊறுகாய்",
         "row": 175,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-11"
+        "image": "assets/product-photos-v1/11-traditional-pickles-11.webp",
+        "id": "11-traditional-pickles-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Puli Milagai",
         "ta": "புளி மிளகாய் ஊறுகாய்",
         "row": 176,
         "source": "Latest workbook",
-        "image": null,
-        "id": "11-traditional-pickles-12"
+        "image": "assets/product-photos-v1/11-traditional-pickles-12.webp",
+        "id": "11-traditional-pickles-12",
+        "imageStyle": "photograph"
       }
     ]
   },
@@ -2463,168 +2770,189 @@
         "ta": "ஆட்டுப்பால் சோப்பு",
         "row": 180,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-1"
+        "image": "assets/product-photos-v1/12-personal-care-1-1.webp",
+        "id": "12-personal-care-1-1",
+        "imageStyle": "photograph"
       },
       {
         "en": "Red Wine Soap",
         "ta": "சிவப்பு ஒயின் சோப்பு",
         "row": 181,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-2"
+        "image": "assets/product-photos-v1/12-personal-care-1-2.webp",
+        "id": "12-personal-care-1-2",
+        "imageStyle": "photograph"
       },
       {
         "en": "Vetiver Soap",
         "ta": "வெட்டிவேர் சோப்பு",
         "row": 182,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-3"
+        "image": "assets/product-photos-v1/12-personal-care-1-3.webp",
+        "id": "12-personal-care-1-3",
+        "imageStyle": "photograph"
       },
       {
         "en": "Aloevera Soap",
         "ta": "கற்றாழை சோப்பு",
         "row": 183,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-4"
+        "image": "assets/product-photos-v1/12-personal-care-1-4.webp",
+        "id": "12-personal-care-1-4",
+        "imageStyle": "photograph"
       },
       {
         "en": "Avaram Poo Soap",
         "ta": "ஆவாரம்பூ சோப்பு",
         "row": 184,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-5"
+        "image": "assets/product-photos-v1/12-personal-care-1-5.webp",
+        "id": "12-personal-care-1-5",
+        "imageStyle": "photograph"
       },
       {
         "en": "Beetroot Soap",
         "ta": "பீட்ரூட் சோப்பு",
         "row": 185,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-6"
+        "image": "assets/product-photos-v1/12-personal-care-1-6.webp",
+        "id": "12-personal-care-1-6",
+        "imageStyle": "photograph"
       },
       {
         "en": "Papaya Soap",
         "ta": "பப்பாளி சோப்பு",
         "row": 186,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-7"
+        "image": "assets/product-photos-v1/12-personal-care-1-7.webp",
+        "id": "12-personal-care-1-7",
+        "imageStyle": "photograph"
       },
       {
         "en": "Charcoal Soap",
         "ta": "கரித்தூள் சோப்பு",
         "row": 187,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-8"
+        "image": "assets/product-photos-v1/12-personal-care-1-8.webp",
+        "id": "12-personal-care-1-8",
+        "imageStyle": "photograph"
       },
       {
         "en": "Kuppameni Soap",
         "ta": "குப்பைமேனி சோப்பு",
         "row": 188,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-9"
+        "image": "assets/product-photos-v1/12-personal-care-1-9.webp",
+        "id": "12-personal-care-1-9",
+        "imageStyle": "photograph"
       },
       {
         "en": "Herbal Shikakai Powder",
         "ta": "மூலிகை சீயக்காய்ப் பொடி",
         "row": 189,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-10"
+        "image": "assets/product-photos-v1/12-personal-care-1-10.webp",
+        "id": "12-personal-care-1-10",
+        "imageStyle": "photograph"
       },
       {
         "en": "Herbal Bathing Powder",
         "ta": "மூலிகைக் குளியல் பொடி",
         "row": 190,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-11"
+        "image": "assets/product-photos-v1/12-personal-care-1-11.webp",
+        "id": "12-personal-care-1-11",
+        "imageStyle": "photograph"
       },
       {
         "en": "Arappu Shampoo",
         "ta": "அரப்பு ஷாம்பு",
         "row": 191,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-12"
+        "image": "assets/product-photos-v1/12-personal-care-1-12.webp",
+        "id": "12-personal-care-1-12",
+        "imageStyle": "photograph"
       },
       {
         "en": "Ricewater Shampoo",
         "ta": "அரிசி நீர் ஷாம்பு",
         "row": 192,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-13"
+        "image": "assets/product-photos-v1/12-personal-care-1-13.webp",
+        "id": "12-personal-care-1-13",
+        "imageStyle": "photograph"
       },
       {
         "en": "Goat Milk Shampoo",
         "ta": "ஆட்டு பால் ஷாம்பு",
         "row": 193,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-14"
+        "image": "assets/product-photos-v1/12-personal-care-1-14.webp",
+        "id": "12-personal-care-1-14",
+        "imageStyle": "photograph"
       },
       {
         "en": "Natural Hair Dye",
         "ta": "இயற்கையான முறையில் ஹேர் டை",
         "row": 194,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-15"
+        "image": "assets/product-photos-v1/12-personal-care-1-15.webp",
+        "id": "12-personal-care-1-15",
+        "imageStyle": "photograph"
       },
       {
         "en": "PainBalm",
         "ta": "வலி நிவாரணத் தைலம்",
         "row": 195,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-16"
+        "image": "assets/product-photos-v1/12-personal-care-1-16.webp",
+        "id": "12-personal-care-1-16",
+        "imageStyle": "photograph"
       },
       {
         "en": "Aloe Vera Skin Gel",
         "ta": "கற்றாழை சரும ஜெல்",
         "row": 196,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-17"
+        "image": "assets/product-photos-v1/12-personal-care-1-17.webp",
+        "id": "12-personal-care-1-17",
+        "imageStyle": "photograph"
       },
       {
         "en": "Pain Rollon",
         "ta": "வலி நிவாரண ரோல் ஆன்",
         "row": 197,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-18"
+        "image": "assets/product-photos-v1/12-personal-care-1-18.webp",
+        "id": "12-personal-care-1-18",
+        "imageStyle": "photograph"
       },
       {
         "en": "Action Karpooravalli Rollon Thailam",
         "ta": "ஆக்ஷன் கற்பூரவல்லி ரோல் ஆன் தைலம்",
         "row": 198,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-19"
+        "image": "assets/product-photos-v1/12-personal-care-1-19.webp",
+        "id": "12-personal-care-1-19",
+        "imageStyle": "photograph"
       },
       {
         "en": "Dr.K.S.Marundhu Thailam (Cold & Body Pain Oil)",
         "ta": "டாக்டர் கே.எஸ். மருந்துத் தைலம் (சளி மற்றும் உடல் வலிக்கான எண்ணெய்)",
         "row": 199,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-20"
+        "image": "assets/product-photos-v1/12-personal-care-1-20.webp",
+        "id": "12-personal-care-1-20",
+        "imageStyle": "photograph"
       },
       {
         "en": "Cold & Body Pain Multipupose Medicated Oil",
         "ta": "சளி மற்றும் உடல் வலிக்கான பல்நோக்கு மருந்து எண்ணெய்",
         "row": 200,
         "source": "Latest workbook",
-        "image": null,
-        "id": "12-personal-care-1-21"
+        "image": "assets/product-photos-v1/12-personal-care-1-21.webp",
+        "id": "12-personal-care-1-21",
+        "imageStyle": "photograph"
       }
     ]
   }
